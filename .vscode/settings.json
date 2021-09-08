@@ -1,0 +1,10 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "idf.flashType": "UART",
+  "idf.port": "/dev/ttyUSB0",
+  "git.ignoreLimitWarning": true,
+  "files.associations": {
+    "*.inc": "c",
+    "event_groups.h": "c"
+  }
+}
